@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="qw">
+    <output-path>$PROJECT_DIR$/out/artifacts/qw</output-path>
+    <root id="archive" name="qw.jar">
+      <element id="module-output" name="OfflinePlayers.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

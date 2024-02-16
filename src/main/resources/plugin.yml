@@ -1,0 +1,8 @@
+name: OfflinePlayers
+version: 2.7
+author: snap20lp
+api-version: 1.16
+main: de.snap20lp.offlineplayers.OfflinePlayers
+
+softdepend:
+  - LibsDisguises
